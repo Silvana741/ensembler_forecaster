@@ -1,0 +1,11 @@
+python=3.9
+mpi4py
+jupyter
+notebook
+jupyterlab
+jax
+matplotlib
+pandas
+numpy
+tensorflow
+ipykernel
